@@ -1,2 +1,2 @@
-# Trabalho-de-heranca
+# Atividade-de-Heranca
 Atividade de heranca
